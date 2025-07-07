@@ -23,7 +23,7 @@ VoxNavi is a modern, responsive web application designed to help job seekers pre
 
 ## 🔗 Live Demo
 
-Experience VoxNavi in action: [https://vox-navi.vercel.app/](https://vox-navi.vercel.app/)
+Experience VoxNavi in action: [https://intervu-ai-sooty.vercel.app/sign-in](https://intervu-ai-sooty.vercel.app/sign-in)
 
 ## 📱 Desktop View
 
