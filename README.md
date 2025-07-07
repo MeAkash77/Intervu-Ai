@@ -67,7 +67,7 @@ Experience VoxNavi in action: [https://intervu-ai-sooty.vercel.app/sign-in](http
 1. Clone the repository
 
 ```bash
-git clone https://github.com/KeepSerene/vox-navi-ai-interview-prep-next-app
+git clone https://github.com/MeAkash77/Intervu-Ai.git
 cd vox-navi-ai-interview-prep-next-app
 ```
 
@@ -298,10 +298,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-Lead developer: [Dhrubajyoti Bhattacharjee](https://github.com/KeepSerene)
 
 ## 🙏 Acknowledgements
 
